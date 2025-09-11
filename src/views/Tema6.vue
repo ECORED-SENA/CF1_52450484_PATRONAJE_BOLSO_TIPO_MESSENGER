@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema6/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La ficha técnica de diseño es un documento esencial en el desarrollo y fabricación de productos de marroquinería como bolsos, carteras, mochilas o estuches. Su función principal es registrar de manera precisa y detallada todos los aspectos técnicos, estéticos y funcionales del producto, actuando como una guía unificada para los equipos de diseño, producción y control de calidad. Este documento permite estandarizar el proceso productivo, garantizar la coherencia entre modelos fabricados en diferentes lotes, y optimizar tanto la planificación como la estimación de costos.
+        p.mb-0 La ficha técnica de diseño es un documento esencial en el desarrollo y fabricación de productos de marroquinería como bolsos, carteras, mochilas o estuches. Su función principal es registrar de manera precisa y detallada todos los aspectos técnicos, estéticos y funcionales del producto, actuando como una guía unificada para los equipos de diseño, producción y control de calidad. Este documento permite estandarizar el proceso productivo, garantizar la coherencia entre modelos fabricados en diferentes lotes y optimizar tanto la planificación como la estimación de costos.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo

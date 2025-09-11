@@ -79,12 +79,12 @@
                 p Franjas que unen cremallera con boca y/o forro. Permiten ajustar capacidad y volumen.
               .bg-color-1.tarjeta.box-shadow.p-3(x="100%" y="58%" numero="C")
                 h5 Terminal de cremallera
-                p Acabado de los extremos de la cremallera, evita que el slider se salga y mejora estética.
+                p Acabado de los extremos de la cremallera, evita que el #[em slider] se salga la estética.
               .bg-color-1.tarjeta.box-shadow.p-3(x="18%" y="88%" numero="D")
                 h5 Organizadores internos
                 p Bolsillos o divisiones internas para clasificar objetos.
               .bg-color-1.tarjeta.box-shadow.p-3(x="7%" y="69%" numero="E")
-                h5 Slider
+                h5 #[em Slider]
                 p Pieza metálica o plástica que desliza sobre los dientes de la cremallera para abrir o cerrar.
               .bg-color-1.tarjeta.box-shadow.p-3(x="7%" y="52%" numero="F")
                 h5 Forro interno
@@ -118,7 +118,7 @@
                 p Tira larga con regulador para llevar cruzado o al hombro. Ajusta comodidad y longitud.
               .bg-color-1.tarjeta.box-shadow.p-3(x="14%" y="47%" numero="D")
                 h5 Correas de la tapa
-                p Tiras sobre la solapa con broches o hebillas. Aseguran cierre y aportan carácter técnico.Bolsillos o divisiones internas para clasificar objetos.
+                p Tiras sobre la solapa con broches o hebillas. Aseguran cierre y aportan carácter técnico. Bolsillos o divisiones internas para clasificar objetos.
              
          
 

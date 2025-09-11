@@ -102,7 +102,7 @@
 
         .bg-color-11.mb-5.tarjeta
           .px-4.px-md-5.py-4
-            p.mb-0 <b>Ventajas principales</b>: este sistema ofrece mayor control en el armado volumétrico del bolso, facilita el trabajo en máquinas de brazo o poste, y permite un mejor manejo de formas estructuradas o diseños complejos.
+            p.mb-0 <b>Ventajas principales</b>: este sistema ofrece mayor control en el armado volumétrico del bolso, facilita el trabajo en máquinas de brazo o poste y permite un mejor manejo de formas estructuradas o diseños complejos.
 
 
 </template>

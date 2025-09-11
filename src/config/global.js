@@ -158,14 +158,14 @@ export default {
         'Von Baer. (2025, 9 abril). Tipos de bolsos de mensajero y guía de estilos. ',
       tipo: 'Página web',
       link:
-        'https://vonbaer.com/blogs/blog/mens-<em>Messenger</em>-bag-guide-how-to-choose-the-right-shoulder-bag?srsltid=AfmBOooNicqFIurbzvGQn-np9XZAWMbZtpUUsCaR-IDsChDHrE27s0Jl ',
+        'https://vonbaer.com/blogs/blog/mens-Messenger-bag-guide-how-to-choose-the-right-shoulder-bag?srsltid=AfmBOooNicqFIurbzvGQn-np9XZAWMbZtpUUsCaR-IDsChDHrE27s0Jl',
     },
   ],
   glosario: [
     {
       termino: 'Agujas',
       significado:
-        'herramientas metálicas que perforan el material y transportan el hilo durante la costura. se clasifican por sistema.',
+        'herramientas metálicas que perforan el material y transportan el hilo durante la costura. Se clasifican por sistema.',
     },
     {
       termino: 'Componentes del bolso',
@@ -175,7 +175,7 @@ export default {
     {
       termino: 'Cuero',
       significado:
-        'material natural obtenido de la piel de animales, principalmente vacuno, que se somete a un proceso de curtido para hacerlo resistente y flexible. se utiliza en la fabricación de marroquinería por su durabilidad, confort y capacidad de adaptarse a la forma del pie.',
+        'material natural obtenido de la piel de animales, principalmente vacuno, que se somete a un proceso de curtido para hacerlo resistente y flexible. Se utiliza en la fabricación de marroquinería por su durabilidad, confort y capacidad de adaptarse a la forma del pie.',
     },
     {
       termino: 'Ficha técnica',
@@ -185,12 +185,12 @@ export default {
     {
       termino: 'Hilos',
       significado:
-        'fibras trenzadas de nylon, poliéster o algodón que permiten unir piezas mediante costura. deben tener alta resistencia, flexibilidad y compatibilidad con el material y la máquina.',
+        'fibras trenzadas de nylon, poliéster o algodón que permiten unir piezas mediante costura. Deben tener alta resistencia, flexibilidad y compatibilidad con el material y la máquina.',
     },
     {
       termino: 'Sintético',
       significado:
-        'material artificial fabricado a partir de polímeros como el PVC o el poliuretano, diseñado para imitar características del cuero o de otros materiales naturales. se usa en marroquinería por su costo accesible, variedad de diseños y facilidad de mantenimiento.',
+        'material artificial fabricado a partir de polímeros como el PVC o el poliuretano, diseñado para imitar características del cuero o de otros materiales naturales. Se usa en marroquinería por su costo accesible, variedad de diseños y facilidad de mantenimiento.',
     },
     {
       termino: 'Textil',
@@ -230,14 +230,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Líder del Ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Olga Constanza Bermúdez Jaimes',
+          cargo: 'Responsable de Línea de Producción Huila',
+          centro: 'Dirección General',
         },
       ],
     },
@@ -245,9 +245,16 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jenny Jasbleydi Velásquez',
+          cargo: 'Experta temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paola Alexandra Moya ',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -255,19 +262,16 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Diana Milena Picón Rincón',
+          cargo: 'Diseñadora de contenidos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Leyson Fabian Castaño Pérez',
+          cargo: 'Desarrollador fullstack',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -275,14 +279,28 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Raúl Mosquera Serrano',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },

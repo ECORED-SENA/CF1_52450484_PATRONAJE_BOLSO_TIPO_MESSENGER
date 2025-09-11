@@ -112,31 +112,31 @@
           tr
             td Curtido al cromo
             td Color gris verdoso sin teñir. Muy flexible, resistente, soporta humedad. Rápido y económico.
-            td Marroquinería en general
-            td Flexible, buen teñido 
+            td Marroquinería en general.
+            td Flexible, buen teñido. 
               br
-              | Menos ecológico
+              | Menos ecológico.
           tr
-            td Curtido vegetal
+            td Curtido vegetal.
             td Color marrón claro a medio. Rígido al inicio, biodegradable, textura firme.
-            td Cinturones, fundas, artículos estructurados
-            td Ideal para repujado y moldes 
+            td Cinturones, fundas, artículos estructurados.
+            td Ideal para repujado y moldes.
               br
-              | Proceso largo y costoso
+              | Proceso largo y costoso.
           tr
-            td Curtido sintético
+            td Curtido sintético.
             td Suave, color blanco o crema. Sin metales pesados, hipoalergénico.
-            td Artículos médicos, infantiles
-            td Ecológico, hipoalergénico 
+            td Artículos médicos, infantiles.
+            td Ecológico, hipoalergénico. 
               br
-              | Menor durabilidad que el cromo
+              | Menor durabilidad que el cromo.
           tr
-            td Curtido mixto o combinado
+            td Curtido mixto o combinado.
             td Mezcla de vegetal/cromo o cromo/sintético. Buena rigidez y resistencia.
-            td Calzado, tapicería, marroquinería
-            td Versátil y adaptable 
+            td Calzado, tapicería, marroquinería.
+            td Versátil y adaptable.
               br
-              | Puede ser más costoso
+              | Puede ser más costoso.
     
     p.mb-5 A continuación, se presentan algunos ejemplos de aplicación según el tipo de curtido, que permiten identificar cuál es el más adecuado en función de las características y exigencias del producto final.
 
@@ -145,7 +145,7 @@
         .row.p-4.align-items-center
           .col-md-7.mb-4.mb-md-0.order-2
             h4 Curtido vegetal
-            p Aporta rigidez estructural y es biodegradable
+            p Aporta rigidez estructural y es biodegradable.
         
           .col-md-5.mb-4.mb-md-0.order-1
             figure
@@ -154,7 +154,7 @@
         .row.p-4.align-items-center
           .col-md-7.mb-4.mb-md-0.order-2
             h4 Curtido al cromo
-            p Ofrece flexibilidad, buena absorción de tintes y alta resistencia al agua
+            p Ofrece flexibilidad, buena absorción de tintes y alta resistencia al agua.
         
           .col-md-5.mb-4.mb-md-0.order-1
             figure
@@ -206,7 +206,7 @@
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-6")
           div(titulo="Cuero semianilina")
             div.ms-5
-              p.mb-0 Similar al anilina, pero con una ligera capa protectora. Mantiene el aspecto natural con mejor resistencia. Usado en productos de gama media-alta. 
+              p.mb-0 Similar a la anilina, pero con una ligera capa protectora. Mantiene el aspecto natural con mejor resistencia. Usado en productos de gama media-alta. 
               p.mb-0 <b>Ventaja</b>: buen equilibrio entre estética y protección.
           div(titulo="Cuero <em>Nobuck</em>")
             div.ms-5
@@ -283,7 +283,7 @@
                 img(src='@/assets/curso/tema2/19.png', alt='')
             .col-lg.order-1.mb-3.mb-lg-0
               .p-4
-                p.mb-0(data-aos="fade-up") La correcta elección de aguja influye directamente en la calidad de la costura, la preservación del material, y la vida útil del equipo.
+                p.mb-0(data-aos="fade-up") La correcta elección de aguja influye directamente en la calidad de la costura, la preservación del material y la vida útil del equipo.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
