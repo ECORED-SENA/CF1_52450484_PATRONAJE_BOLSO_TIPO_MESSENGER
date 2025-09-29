@@ -34,28 +34,28 @@
                   img(src='@/assets/curso/tema1/2.png', alt='', style="max-width: 1106px;").mx-auto
               .bg-color-1.tarjeta.box-shadow.p-3(x="46%" y="0%" numero="A")
                 h5 Manija
-                p Asa corta en la parte superior. Permite llevar el bolso en la mano.
+                p.mb-0 Asa corta en la parte superior. Permite llevar el bolso en la mano.
               .bg-color-1.tarjeta.box-shadow.p-3(x="82%" y="4%" numero="B")
                 h5 Tapa o solapa
-                p Cubierta frontal que cierra con broches o velcro. Protege el contenido y define la identidad estética.
+                p.mb-0 Cubierta frontal que cierra con broches o velcro. Protege el contenido y define la identidad estética.
               .bg-color-1.tarjeta.box-shadow.p-3(x="94%" y="17%" numero="C")
                 h5 Contra tapa
-                p Pieza interior de la tapa, a veces con bolsillos. Refuerza, mejora presentación y añade funciones.
+                p.mb-0 Pieza interior de la tapa, a veces con bolsillos. Refuerza, mejora presentación y añade funciones.
               .bg-color-1.tarjeta.box-shadow.p-3(x="98%" y="35%" numero="D")
                 h5 Cuerpo (frontal y espaldar)
-                p Partes frontal y posterior, generalmente rectangulares o cuadradas. Contienen el volumen principal y definen la forma externa.
+                p.mb-0 Partes frontal y posterior, generalmente rectangulares o cuadradas. Contienen el volumen principal y definen la forma externa.
               .bg-color-1.tarjeta.box-shadow.p-3(x="99%" y="53%" numero="E")
                 h5 Fuelle, falso o costado
-                p Tiras verticales que unen los costados. Aportan profundidad y aumentan la capacidad de carga.
+                p.mb-0 Tiras verticales que unen los costados. Aportan profundidad y aumentan la capacidad de carga.
               .bg-color-1.tarjeta.box-shadow.p-3(x="100%" y="71%" numero="F")
                 h5 Base o fondo
-                p Pieza inferior que conecta frontal y posterior. Proporciona estabilidad y soporte al contenido.
+                p.mb-0 Pieza inferior que conecta frontal y posterior. Proporciona estabilidad y soporte al contenido.
               .bg-color-1.tarjeta.box-shadow.p-3(x="26%" y="86%" numero="G")
                 h5 Correas de los bolsillos
-                p Tiras pequeñas con broche, velcro o hebilla que aseguran bolsillos. Aportan seguridad y diseño.
+                p.mb-0 Tiras pequeñas con broche, velcro o hebilla que aseguran bolsillos. Aportan seguridad y diseño.
               .bg-color-1.tarjeta.box-shadow.p-3(x="2%" y="53%" numero="H")
                 h5 Bolsillos (externos o internos)
-                p Compartimentos adicionales para organizar objetos pequeños.
+                p.mb-0 Compartimentos adicionales para organizar objetos pequeños.
     
     p.mb-5 A continuación, se describen los componentes internos y de cierre del bolso tipo <em>Messenger</em>. Estos elementos están orientados a proteger el contenido, optimizar la organización interna y garantizar un acceso seguro y práctico, aportando funcionalidad y un acabado estético al diseño final.
 
@@ -73,25 +73,25 @@
                   img(src='@/assets/curso/tema1/3.png', alt='', style="max-width: 1106px;").mx-auto
               .bg-color-1.tarjeta.box-shadow.p-3(x="97%" y="10%" numero="A")
                 h5 Boca
-                p Parte superior del cuerpo, donde está la abertura principal. Permite acceso al interior y se une a la cremallera y forro.
+                p.mb-0 Parte superior del cuerpo, donde está la abertura principal. Permite acceso al interior y se une a la cremallera y forro.
               .bg-color-1.tarjeta.box-shadow.p-3(x="99%" y="37%" numero="B")
                 h5 Laterales de cremallera
-                p Franjas que unen cremallera con boca y/o forro. Permiten ajustar capacidad y volumen.
+                p.mb-0 Franjas que unen cremallera con boca y/o forro. Permiten ajustar capacidad y volumen.
               .bg-color-1.tarjeta.box-shadow.p-3(x="100%" y="58%" numero="C")
                 h5 Terminal de cremallera
-                p Acabado de los extremos de la cremallera, evita que el #[em slider] se salga la estética.
+                p.mb-0 Acabado de los extremos de la cremallera, evita que el #[i slider] se salga y mejora estética.
               .bg-color-1.tarjeta.box-shadow.p-3(x="18%" y="88%" numero="D")
                 h5 Organizadores internos
-                p Bolsillos o divisiones internas para clasificar objetos.
+                p.mb-0 Bolsillos o divisiones internas para clasificar objetos.
               .bg-color-1.tarjeta.box-shadow.p-3(x="7%" y="69%" numero="E")
                 h5 #[em Slider]
-                p Pieza metálica o plástica que desliza sobre los dientes de la cremallera para abrir o cerrar.
+                p.mb-0 Pieza metálica o plástica que desliza sobre los dientes de la cremallera para abrir o cerrar.
               .bg-color-1.tarjeta.box-shadow.p-3(x="7%" y="52%" numero="F")
                 h5 Forro interno
-                p Revestimiento interior de tela liviana o sintética. Protege, mejora apariencia y durabilidad.
+                p.mb-0 Revestimiento interior de tela liviana o sintética. Protege, mejora apariencia y durabilidad.
               .bg-color-1.tarjeta.box-shadow.p-3(x="7%" y="37%" numero="G")
                 h5 Cierres
-                p Mecanismos como cremalleras que aseguran y permiten acceso al contenido.
+                p.mb-0 Mecanismos como cremalleras que aseguran y permiten acceso al contenido.
     
     p.mb-5 A continuación, se presentan los componentes de sujeción y refuerzo del bolso tipo <em>Messenger</em>. Estos elementos aseguran la comodidad en el transporte, incrementan la resistencia estructural y añaden detalles estéticos o funcionales que completan la presentación y durabilidad del accesorio.
 
@@ -109,24 +109,16 @@
                   img(src='@/assets/curso/tema1/4.png', alt='', style="max-width: 1106px;").mx-auto
               .bg-color-1.tarjeta.box-shadow.p-3(x="86%" y="32%" numero="A")
                 h5 Chapetas
-                p Refuerzos en puntos de tensión o elementos decorativos. Mejoran resistencia y acabado.
+                p.mb-0 Refuerzos en puntos de tensión o elementos decorativos. Mejoran resistencia y acabado.
               .bg-color-1.tarjeta.box-shadow.p-3(x="89%" y="66%" numero="B")
                 h5 Herrajes
-                p Elementos como argollas, mosquetones o pasadores para ensamblar y ajustar piezas.
+                p.mb-0 Elementos como argollas, mosquetones o pasadores para ensamblar y ajustar piezas.
               .bg-color-1.tarjeta.box-shadow.p-3(x="92%" y="84%" numero="C")
                 h5 Correa ajustable
-                p Tira larga con regulador para llevar cruzado o al hombro. Ajusta comodidad y longitud.
+                p.mb-0 Tira larga con regulador para llevar cruzado o al hombro. Ajusta comodidad y longitud.
               .bg-color-1.tarjeta.box-shadow.p-3(x="14%" y="47%" numero="D")
                 h5 Correas de la tapa
-                p Tiras sobre la solapa con broches o hebillas. Aseguran cierre y aportan carácter técnico. Bolsillos o divisiones internas para clasificar objetos.
-             
-         
-
-    
-    
-
-    
-  
+                p.mb-0 Tiras sobre la solapa con broches o hebillas. Aseguran cierre y aportan carácter técnico.
  
 </template>
 

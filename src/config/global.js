@@ -148,7 +148,7 @@ export default {
     {
       tema: 'Materiales e insumos para marroquinería',
       referencia:
-        'Fabros Ec. (2025). Tipos de Cuero: ¿Cuál es el Mejor para Marroquinería? | Guía Completa FABROS". [Archivo de video] Youtube.  ',
+        'Fabros Ec. (2025). Tipos de Cuero: ¿Cuál es el Mejor para Marroquinería? | Guía Completa FABROS". [Archivo de video] YouTube.  ',
       tipo: 'Video ',
       link: 'https://www.youtube.com/watch?v=uC0gF4rOo_s&ab_channel=FabrosEc ',
     },
@@ -236,7 +236,7 @@ export default {
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción Huila',
+          cargo: 'Responsable de Línea de Producción',
           centro: 'Dirección General',
         },
       ],
@@ -246,7 +246,7 @@ export default {
       autores: [
         {
           nombre: 'Jenny Jasbleydi Velásquez',
-          cargo: 'Experta temático',
+          cargo: 'Experta temática',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -269,7 +269,7 @@ export default {
         },
         {
           nombre: 'Leyson Fabian Castaño Pérez',
-          cargo: 'Desarrollador fullstack',
+          cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },

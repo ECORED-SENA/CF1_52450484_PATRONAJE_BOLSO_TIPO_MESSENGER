@@ -263,9 +263,11 @@
     
     p.mb-5 A continuación, se presenta un video que analiza el uso de textiles en marroquinería, destacando sus características, aplicaciones y su papel clave en la mejora del diseño, la funcionalidad y la sostenibilidad de los productos.
 
-    figure
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    .row.justify-content-center
+      .col-auto
+        figure
+          .vide
+            iframe(width="1152" height="648" src="https://www.youtube.com/embed/Iaa0AKrIvbo?si=b1U4F0ZrNY8YGJDi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     separador
     
@@ -290,7 +292,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto Clasificación de agujas para marroquinería
     
-    p.mb-5 A continuación se presenta la clasificación de agujas para marroquinería, organizada según los principales criterios técnicos que determinan su adecuación al tipo de material, costura y equipo utilizado.
+    p.mb-5 A continuación, se presenta la clasificación de agujas para marroquinería, organizada según los principales criterios técnicos que determinan su adecuación al tipo de material, costura y equipo utilizado.
 
     h4.bg-color-7.text-white.p-3 Según el tipo de punta
 
@@ -505,7 +507,7 @@
               .col-lg-auto
                 img(src="@/assets/curso/tema2/30.svg", style="max-width: 90px").mx-auto
               .col-lg
-                p.mb-0 Estos materiales e insumos como cueros, sintéticos, textiles, agujas e hilos, conforman la base de la marroquinería moderna, permitiendo la creación de productos duraderos, funcionales y estéticamente atractivos, en sintonía con las tendencias y necesidades del mercado actual.
+                p.mb-0 Estos materiales e insumos, como cueros, sintéticos, textiles, agujas e hilos, conforman la base de la marroquinería moderna, permitiendo la creación de productos duraderos, funcionales y estéticamente atractivos, en sintonía con las tendencias y necesidades del mercado actual.
 </template>
 
 <script>
