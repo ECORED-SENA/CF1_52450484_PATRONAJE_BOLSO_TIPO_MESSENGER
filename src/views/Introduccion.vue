@@ -10,7 +10,7 @@
     
     .bg-full-width.bg-fondo-1.mb-5
       .px-4.px-md-5
-        p.mb-5 El patronaje técnico es una fase fundamental en el desarrollo de productos de marroquinería, pues constituye la base estructural que garantiza la forma, el ensamble y la funcionalidad de cada artículo. Este componente formativo está orientado a proporcionar al aprendiz los conocimientos esenciales para la elaboración de patrones aplicados al bolso tipo <em>Messenger</em>, uno de los modelos más demandados en el mercado por su diseño versátil y funcional.
+        p.mb-5 El patronaje técnico es una fase fundamental en el desarrollo de productos de marroquinería, pues constituye la base estructural que garantiza la forma, el ensamble y la funcionalidad de cada artículo. Este componente formativo está orientado a proporcionar al aprendiz los conocimientos esenciales para la elaboración de patrones aplicados al bolso tipo Messenger, uno de los modelos más demandados en el mercado por su diseño versátil y funcional.
 
         .bg-color-1.mb-5(data-aos="fade-up")
           .row.justify-content-center.align-items-center

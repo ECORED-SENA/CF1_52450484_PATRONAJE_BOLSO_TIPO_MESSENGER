@@ -1,9 +1,8 @@
 export default {
   global: {
-    Name:
-      'Fundamentos técnicos del patronaje para bolsos tipo <em>Messenger</em>',
+    Name: 'Fundamentos técnicos del patronaje para bolsos tipo Messenger',
     Description:
-      'El componente formativo Fundamentos técnicos del patronaje para bolsos tipo <em>Messenger</em> aborda la morfología del bolso, funciones de sus partes y principios de patronaje para precisión, funcionalidad y estandarización. Incluye análisis de materiales, su impacto en moldes y producto final, así como la interpretación de especificaciones técnicas. Su enfoque práctico virtual fortalece competencias en el sector marroquinero.',
+      'El componente formativo Fundamentos técnicos del patronaje para bolsos tipo Messenger aborda la morfología del bolso, funciones de sus partes y principios de patronaje para precisión, funcionalidad y estandarización. Incluye análisis de materiales, su impacto en moldes y producto final, así como la interpretación de especificaciones técnicas. Su enfoque práctico virtual fortalece competencias en el sector marroquinero.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -37,7 +36,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Componentes del bolso tipo <em>Messenger</em>',
+        titulo: 'Componentes del bolso tipo Messenger',
         desarrolloContenidos: true,
       },
 
@@ -83,7 +82,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Tipos de construcción del bolso <em>Messenger</em>',
+        titulo: 'Tipos de construcción del bolso Messenger',
         desarrolloContenidos: true,
       },
       {
@@ -153,7 +152,7 @@ export default {
       link: 'https://www.youtube.com/watch?v=uC0gF4rOo_s&ab_channel=FabrosEc ',
     },
     {
-      tema: 'Tipos de construcción del bolso <em>Messenger</em>',
+      tema: 'Tipos de construcción del bolso Messenger',
       referencia:
         'Von Baer. (2025, 9 abril). Tipos de bolsos de mensajero y guía de estilos. ',
       tipo: 'Página web',

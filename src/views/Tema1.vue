@@ -5,9 +5,9 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
-      h1 Componentes del bolso tipo <em>Messenger</em>
+      h1 Componentes del bolso tipo Messenger
     
-    p.mb-5 El bolso tipo <em>Messenger</em> es un accesorio funcional, cómodo y adaptable a contextos urbanos y profesionales. Su diseño se caracteriza por una forma rectangular o trapezoidal, una solapa frontal amplia y una correa larga para llevarlo cruzado o al hombro. Esta configuración facilita el transporte de objetos personales y documentos.
+    p.mb-5 El bolso tipo Messenger es un accesorio funcional, cómodo y adaptable a contextos urbanos y profesionales. Su diseño se caracteriza por una forma rectangular o trapezoidal, una solapa frontal amplia y una correa larga para llevarlo cruzado o al hombro. Esta configuración facilita el transporte de objetos personales y documentos.
 
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
@@ -16,9 +16,9 @@
             img(src="@/assets/curso/tema1/1.png", data-aos="zoom-in")
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p Conocer cada uno de los componentes del bolso tipo <em>Messenger</em> resulta clave para su diseño, patronaje y ensamblaje. Elementos como el cuerpo principal, la tapa, los fuelles, la base, los bolsillos, el forro y el sistema de cierre cumplen funciones específicas que influyen en la estética, la ergonomía y la funcionalidad. Este conocimiento permite elaborar patrones precisos y tomar decisiones acertadas sobre materiales, procesos y acabados. 
+            p Conocer cada uno de los componentes del bolso tipo Messenger resulta clave para su diseño, patronaje y ensamblaje. Elementos como el cuerpo principal, la tapa, los fuelles, la base, los bolsillos, el forro y el sistema de cierre cumplen funciones específicas que influyen en la estética, la ergonomía y la funcionalidad. Este conocimiento permite elaborar patrones precisos y tomar decisiones acertadas sobre materiales, procesos y acabados. 
     
-    p.mb-5 A continuación, se presentan los principales componentes externos y estructurales del bolso tipo <em>Messenger</em>. Cada elemento desempeña un papel específico en la definición de la forma, la capacidad y la funcionalidad del accesorio, contribuyendo tanto a su resistencia como a su estética final.
+    p.mb-5 A continuación, se presentan los principales componentes externos y estructurales del bolso tipo Messenger. Cada elemento desempeña un papel específico en la definición de la forma, la capacidad y la funcionalidad del accesorio, contribuyendo tanto a su resistencia como a su estética final.
 
     .bg-full-width.bg-color-2.mb-3
       .px-4.px-md-5
@@ -57,7 +57,7 @@
                 h5 Bolsillos (externos o internos)
                 p.mb-0 Compartimentos adicionales para organizar objetos pequeños.
     
-    p.mb-5 A continuación, se describen los componentes internos y de cierre del bolso tipo <em>Messenger</em>. Estos elementos están orientados a proteger el contenido, optimizar la organización interna y garantizar un acceso seguro y práctico, aportando funcionalidad y un acabado estético al diseño final.
+    p.mb-5 A continuación, se describen los componentes internos y de cierre del bolso tipo Messenger. Estos elementos están orientados a proteger el contenido, optimizar la organización interna y garantizar un acceso seguro y práctico, aportando funcionalidad y un acabado estético al diseño final.
 
     .bg-full-width.bg-color-2.mb-3
       .px-4.px-md-5
@@ -93,7 +93,7 @@
                 h5 Cierres
                 p.mb-0 Mecanismos como cremalleras que aseguran y permiten acceso al contenido.
     
-    p.mb-5 A continuación, se presentan los componentes de sujeción y refuerzo del bolso tipo <em>Messenger</em>. Estos elementos aseguran la comodidad en el transporte, incrementan la resistencia estructural y añaden detalles estéticos o funcionales que completan la presentación y durabilidad del accesorio.
+    p.mb-5 A continuación, se presentan los componentes de sujeción y refuerzo del bolso tipo Messenger. Estos elementos aseguran la comodidad en el transporte, incrementan la resistencia estructural y añaden detalles estéticos o funcionales que completan la presentación y durabilidad del accesorio.
 
     .bg-full-width.bg-color-2.mb-3
       .px-4.px-md-5

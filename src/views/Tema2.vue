@@ -141,7 +141,7 @@
     p.mb-5 A continuación, se presentan algunos ejemplos de aplicación según el tipo de curtido, que permiten identificar cuál es el más adecuado en función de las características y exigencias del producto final.
 
     TabsC.color-acento-contenido.mb-5
-      .py-3.py-md-4(titulo="Bolso rígido y ecológico tipo <em>Messenger</em>")
+      .py-3.py-md-4(titulo="Bolso rígido y ecológico tipo Messenger")
         .row.p-4.align-items-center
           .col-md-7.mb-4.mb-md-0.order-2
             h4 Curtido vegetal

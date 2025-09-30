@@ -5,19 +5,19 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 4
-      h1 Tipos de construcción del bolso <em>Messenger</em>
+      h1 Tipos de construcción del bolso Messenger
     
     .row.mb-5.align-items-center
       .col-lg-5.mb-3.mb-lg-0
         .bg-color-3.tarjeta.p-5(data-aos="fade-left").align-content-center
-          p.mb-0(data-aos="fade-left") El bolso tipo <em>Messenger</em> se caracteriza por su forma rectangular o cuadrada, una tapa frontal abatible y una correa larga que permite llevarlo cruzado sobre el cuerpo. Este diseño versátil y funcional es ampliamente utilizado tanto en entornos urbanos como profesionales.
+          p.mb-0(data-aos="fade-left") El bolso tipo Messenger se caracteriza por su forma rectangular o cuadrada, una tapa frontal abatible y una correa larga que permite llevarlo cruzado sobre el cuerpo. Este diseño versátil y funcional es ampliamente utilizado tanto en entornos urbanos como profesionales.
       .col-lg-3.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema4/1.png" data-aos="zoom-in")
       .col-lg-4.mb-3.mb-lg-0
         figure.mb-2
           img(src="@/assets/curso/tema4/2.svg", style="max-width: 90px" data-aos="zoom-in")
-        p.mb-0(data-aos="fade-left") Desde el punto de vista técnico, el bolso <em>Messenger</em> puede construirse siguiendo dos enfoques estructurales diferentes, cada uno con ventajas particulares según el diseño, los materiales y el proceso de fabricación: la construcción a partir del frontal y la construcción a partir del fuelle.
+        p.mb-0(data-aos="fade-left") Desde el punto de vista técnico, el bolso Messenger puede construirse siguiendo dos enfoques estructurales diferentes, cada uno con ventajas particulares según el diseño, los materiales y el proceso de fabricación: la construcción a partir del frontal y la construcción a partir del fuelle.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -80,7 +80,7 @@
     
     .bg-full-width.bg-color-2.mb-5
       .px-4.px-md-5
-        p.mb-5 Este procedimiento detalla los pasos generales para ensamblar la estructura del bolso tipo <em>Messenger</em>, asegurando estabilidad, resistencia y un acabado profesional.
+        p.mb-5 Este procedimiento detalla los pasos generales para ensamblar la estructura del bolso tipo Messenger, asegurando estabilidad, resistencia y un acabado profesional.
         .row.mb-3
           .col-lg-3.mb-3.mb-lg-0.order-lg-2
             figure
