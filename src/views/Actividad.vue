@@ -21,7 +21,7 @@ export default {
         'Fundamentos técnicos del patronaje para bolsos tipo <em>Messenger</em>',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> identificar los conceptos clave sobre componentes, materiales, procesos productivos, tipos de construcción, acabados y fichas técnicas en la elaboración de bolsos tipo <em>Messenger</em>.',
+        'Identificar los conceptos clave sobre componentes, materiales, procesos productivos, tipos de construcción, acabados y fichas técnicas en la elaboración de bolsos tipo Messenger.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
